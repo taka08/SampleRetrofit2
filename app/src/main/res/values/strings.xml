@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleRetrofit2</string>
+    <string name="button_name">ServerCheck</string>
+</resources>
